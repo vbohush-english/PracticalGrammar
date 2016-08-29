@@ -1,0 +1,36 @@
+1.
+She's a doctor.
+He's an artist.
+They're engineers.
+I'm a teacher.
+We're doctors.
+You're a musician.
+She isn't an artist.
+I'm not a student.
+You aren't a teacher.
+He isn't an engineer.
+They aren't nurses.
+You aren't an artist.
+
+
+2.
+She isn't a nurse.
+I'm not a teacher.
+You aren't an artist.
+They aren't Russian.
+We aren't engineers.
+She isn't Chinese.
+He isn't married.
+I'm not twenty-one.
+She isn't a musician.
+They aren't from Peru.
+We aren't students.
+She isn't twenty-nine.
+
+
+3.
+The Taj Mahal isn't in Pakistan. It's in India.
+The statue of Liberty isn't in Canada. It's in the USA.
+Machu Picchu isn't in Mexico. It's in Peru.
+The Eiffel Tower isn't in Italy. It's in France.
+The Sydney Opera House isn't in the UK. It's in the Australia.
