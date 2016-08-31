@@ -1,0 +1,30 @@
+1.
+Where's the phone?
+Where's the table?
+Where are the keys?
+Where's the camera?
+Where are the pens?
+Where's the wallet?
+Where's the bag?
+Where are the books?
+
+2.
+Two pens are on the chair.
+The keys and the wallet are under the chair.
+The books are in the bag.
+The bag is under the table.
+The camera is next to the phone.
+The phone is on the table.
+
+3.
+It's under the chair.
+They're in the bag.
+It's under the book.
+It's next to the camera.
+They're on the table.
+They're next to the bag.
+It's next to the chair.
+It's on the wallet.
+They're under the phone.
+It's in the bag.
+
