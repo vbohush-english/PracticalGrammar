@@ -1,0 +1,55 @@
+1.
+Can I help you? - O
+Can you help me, please? - R
+Can I ask you a question? - R
+Can I have a drink? - R
+Can you get me a drink? - R
+Can I get you a drink? - O
+Can I buy you lunch? - O
+Can I use your phone? - R
+Can you lend me your phone? - R
+Can I barrow your phone? - R
+
+2.
+Can I barrow you car?
+Can you speak to her?
+Can I open the window?
+Can I buy you lunch?
+Can You get me a drink?
+Can I carry your bag?
+Can you help me?
+Can you lend me your phone?
+Can I use your leptop?
+Can you answer the phone?
+
+3.
+Hello. Can I help you?
+Yes, can I speak to maris Turner, please?
+I'm afraid not. She isn't here today. Can I get her secretary?
+Yes, thanks very much.
+Hello, Max. How are you?
+Fine, but it's very hot today!
+Can I get you some water?
+Thanks very much. And can you open the window?
+Sure.
+Can I ask you a question?
+Sure.
+Well, can I barrow some money?
+Certainly. How much do you need?
+I don't have any money. Can you buy me lunch today.
+Sory. I can't go for lunch today. I don't have time.
+Excuse me. Can I use your phone. please?
+Sure. Here it is.
+Thanks. Sorry, it doesn't work. Can you help me?
+Yes. Press this button.
+
+4.
+Can you answer the phone for me? - Sure.
+Can I show you how to use this machine? - Thanks very much..
+Can we have a break? - Certainly.
+Can you help me, please? - Of course.
+Can I have a glass of water, please? - Certainly.
+Can your daughter play the piano? - Yes, she can.
+Can I help you lift this? - Yes, thanks.
+I can't play chess. Can you? - No, I can't.
+
